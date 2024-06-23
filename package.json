@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Create an express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullStack-Blake/express-server.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "SangYeup Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullStack-Blake/express-server/issues"
+  },
+  "homepage": "https://github.com/fullStack-Blake/express-server#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
